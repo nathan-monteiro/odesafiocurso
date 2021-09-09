@@ -1,0 +1,12 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+:root{
+    --cor1: #FAD881;
+}
+body{
+    background-color: var(--cor1);
+}
